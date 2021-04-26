@@ -1,4 +1,4 @@
-# Revolutio
+# Revolutio - Bicycle Gear Ratio App
 Shows Bicycle Gear Ratios information
 
 Revolutio is Latin for Cycling.
